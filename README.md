@@ -16,11 +16,9 @@
 ![Github Logo](https://github.com/yukosuga/authoring-classB/blob/main/images/logo.png)
 
 ### Emojis
-I am from 🗾
-
-My 🎂 is in July♋️
-
-I ❤️ working 👩🏻‍💻
+- I am from 🗾
+- My 🎂 is in July♋️
+- I ❤️ working 👩🏻‍💻
 
 ### Tables
 | Name    | Class   | Level |
