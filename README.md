@@ -7,10 +7,10 @@
 - [X] [Tables](#tables)
 
 ### External Link
-[Github Documentaion](https://help.github.com/en)
+Click Here to ➡️ [Github Documentaion](https://help.github.com/en)
 
 ### Internal Link
-[Images Folder](https://github.com/yukosuga/authoring-classB/tree/main/images)
+Click Here to ➡️ [Images Folder](https://github.com/yukosuga/authoring-classB/tree/main/images)
 
 ### Images
 ![Github Logo](https://github.com/yukosuga/authoring-classB/blob/main/images/logo.png)
